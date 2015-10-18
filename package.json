@@ -1,6 +1,6 @@
 {
   "name": "wwvdom-constants",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Constants for wwvdom",
   "main": "index.js",
   "repository": {
