@@ -1,0 +1,15 @@
+{
+  "name": "wwvdom-constants",
+  "version": "0.0.0",
+  "description": "Constants for wwvdom",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garbles/wwvdom-constants"
+  },
+  "keywords": [
+    "virtual-dom"
+  ],
+  "author": "Gabe Scholz",
+  "license": "MIT"
+}
